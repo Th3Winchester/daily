@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "507e6bdeab84abc4",
+        "id": "e32cf53197ae4638",
         "type": "tabs",
         "children": [
           {
-            "id": "2d202270ef5a6a8c",
+            "id": "7ab595b20d998c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,7 +102,41 @@
       {
         "id": "5ac41f5ca9ae2eb5",
         "type": "tabs",
+        "dimension": 49.031007751937985,
         "children": [
+          {
+            "id": "2a3b6617a86f1ff3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Daily/2024-11-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-05"
+            }
+          },
+          {
+            "id": "691d6a5f9524febf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template/Daily Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Template"
+            }
+          },
           {
             "id": "300a44308d64745e",
             "type": "leaf",
@@ -129,16 +163,6 @@
             }
           },
           {
-            "id": "9c49f94e7f91a230",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "5558b24b4d9dcfa6",
             "type": "leaf",
             "state": {
@@ -147,52 +171,44 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "4eecb88447878785",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a3b6617a86f1ff3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Template/Daily Template.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Daily Template"
-            }
           },
           {
-            "id": "691d6a5f9524febf",
+            "id": "9c49f94e7f91a230",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "e21a212d79e6b01a",
+        "type": "tabs",
+        "dimension": 50.968992248062015,
+        "children": [
+          {
+            "id": "2d202270ef5a6a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Template/Daily Template.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Agenda.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Daily Template"
+              "icon": "lucide-file",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,20 +218,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d202270ef5a6a8c",
+  "active": "5558b24b4d9dcfa6",
   "lastOpenFiles": [
     "Journal/Daily/2024-11-05.md",
-    "Journal/Weekly/2024-W46.md",
-    "README.md",
-    "Journal/Daily/2024-11-06.md",
-    "Template/Weekly Template.md",
-    "Journal/Daily/2024-11-13.md",
     "Template/Daily Template.md",
+    "Agenda.md",
+    "Template/Weekly Template.md",
+    "README.md",
+    "Journal/Daily/2024-11-07.md",
+    "Journal/Daily/2024-11-06.md",
+    "2024-W47.md",
+    "2024-W49.md",
+    "2024-W46.md",
+    "Journal/Weekly/2024-W46.md",
+    "Journal/Daily/2024-11-13.md",
     "Journal/Daily/240024-11-05.md",
     "Journal/Daily/2024-11-20.md",
     "Journal/Daily240024-11-07.md",

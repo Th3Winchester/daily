@@ -9,8 +9,12 @@
       "path": "Journal/Daily/2024-11-05.md"
     },
     {
-      "basename": "Weekly Template",
-      "path": "Template/Weekly Template.md"
+      "basename": "Agenda",
+      "path": "Agenda.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
