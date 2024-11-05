@@ -11,10 +11,14 @@
             "id": "2d202270ef5a6a8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Template/Daily Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Template"
             }
           }
         ]
@@ -70,6 +74,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "7deb033febf058d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2fcbcb6a7bf923",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,37 +103,6 @@
         "id": "5ac41f5ca9ae2eb5",
         "type": "tabs",
         "children": [
-          {
-            "id": "2a3b6617a86f1ff3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "691d6a5f9524febf",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
           {
             "id": "300a44308d64745e",
             "type": "leaf",
@@ -132,9 +121,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Template/Daily Template.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Daily Template"
             }
           },
           {
@@ -146,9 +137,58 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5558b24b4d9dcfa6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "4eecb88447878785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3b6617a86f1ff3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template/Daily Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Daily Template"
+            }
+          },
+          {
+            "id": "691d6a5f9524febf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Template/Daily Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Template"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,11 +202,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "2d202270ef5a6a8c",
   "lastOpenFiles": [
+    "Journal/Daily/2024-11-05.md",
+    "Journal/Weekly/2024-W46.md",
+    "README.md",
+    "Journal/Daily/2024-11-06.md",
+    "Template/Weekly Template.md",
+    "Journal/Daily/2024-11-13.md",
+    "Template/Daily Template.md",
+    "Journal/Daily/240024-11-05.md",
+    "Journal/Daily/2024-11-20.md",
+    "Journal/Daily240024-11-07.md",
+    "Journal/Daily/240024-11-03.md",
+    "Journal/Daily/240024-11-04.md",
+    "template/daily-template",
+    "Template",
+    "Journal/Weekly",
+    "Untitled 2",
+    "Journal/Daily",
+    "Untitled 1",
+    "Journal",
+    "templates",
     "daily-notes/2024-11-05.md",
     "daily-notes"
   ]
