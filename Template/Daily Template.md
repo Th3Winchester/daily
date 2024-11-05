@@ -1,4 +1,7 @@
-- [ ] Study Programming
+### Habits
+- [ ] Study
+- [ ] Programming
+- [ ] Excercise
 # Journal
 
 

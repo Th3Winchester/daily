@@ -1,53 +1,53 @@
-### Monday
+**Monday:** 
 ```tasks
 not done
 due this monday
 hide due date
 sort by priority
 ```
-### Tuesday
+**Tuesday** 
 ```tasks
 not done
 due this tuesday
 hide due date
 sort by priority
 ```
-### Wednesday
+**Wednesday**
 ```tasks
 not done
 due this wednesday
 hide due date
 sort by priority
 ```
-### Thursday
+**Thursday**
 ```tasks
 not done
 due this thursday
 hide due date
 sort by priority
 ```
-### Friday
+**Friday**
 ```tasks
 not done
 due this friday
 hide due date
 sort by priority
 ```
-### Saturday
+**Saturday**
 ```tasks
 not done
 due this saturday
 hide due date
 sort by priority
 ```
-### Sunday
+**Sunday**
 ```tasks
 not done
 due this sunday
 hide due date
 sort by priority
 ```
-### Future tasks
+**Future tasks**
 ```tasks
 not done
 due after next sunday
